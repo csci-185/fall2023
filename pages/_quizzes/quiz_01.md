@@ -9,8 +9,8 @@ due_date: 2023-09-25
 ---
 
 
-> ## Actual Quiz 1 Link
-> [ACTUAL QUIZ 1](../activities/quiz01)
+<!-- > ## Actual Quiz 1 Link
+> [ACTUAL QUIZ 1](../activities/quiz01) -->
 
 ## 1. Guidelines (Please Read Carefully)
 * Quiz 1 will be completed during class on Monday, 9/25. It is due at the end of class.
